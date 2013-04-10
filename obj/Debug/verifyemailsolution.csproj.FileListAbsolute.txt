@@ -1,0 +1,5 @@
+c:\users\nicholasd.gcs\documents\visual studio 2012\Projects\verifyemailsolution\verifyemailsolution\bin\verifyemailsolution.dll
+c:\users\nicholasd.gcs\documents\visual studio 2012\Projects\verifyemailsolution\verifyemailsolution\bin\verifyemailsolution.pdb
+c:\users\nicholasd.gcs\documents\visual studio 2012\Projects\verifyemailsolution\verifyemailsolution\obj\Debug\verifyemailsolution.csprojResolveAssemblyReference.cache
+c:\users\nicholasd.gcs\documents\visual studio 2012\Projects\verifyemailsolution\verifyemailsolution\obj\Debug\verifyemailsolution.dll
+c:\users\nicholasd.gcs\documents\visual studio 2012\Projects\verifyemailsolution\verifyemailsolution\obj\Debug\verifyemailsolution.pdb
